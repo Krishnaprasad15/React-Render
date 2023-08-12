@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
-import ArrUseState from './components/ArrUseState';
+import ParComp from './components/ParComp';
+// import ArrUseState from './components/ArrUseState';
 // import ObjUseState from './components/ObjUseState';
 // import Counter from './components/Counter';
 // import Reducer from './components/Reducer';
@@ -11,7 +12,8 @@ function App() {
       {/* <Counter/> */}
       {/* <Reducer/> */}
       {/* <ObjUseState/> */}
-      <ArrUseState/>
+      {/* <ArrUseState/> */}
+      <ParComp/>
     </div>
   );
 }
